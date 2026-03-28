@@ -3,7 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_arthur_rc)
 
 
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
