@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Arthur Rodrigues
 
+- Estudando React, JavaScript e Banco de dados
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_arthur_rc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-rodrigues-2309a3402/)
 
